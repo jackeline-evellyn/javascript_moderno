@@ -22,4 +22,5 @@ console.log(resultadoTriplicado );
 //para saber qual é o tipo da variavel
 console.log(typeof primeiroNumero);
 console.log(typeof segundoNumero);
+
 console.log(typeof (primeiroNumero + segundoNumero));
