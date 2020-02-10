@@ -11,6 +11,7 @@ const num2 = 10.5;  //number
 
 let nomeAluno; // undefined -> não aponta para nenhum local na memória
 const sobrenomeAluno = null; // Nulo -> não aponta para nenhum local da memória
+//null é declarado explicitamente pelo programador, undefined a linguagem se encarrega
 
 const boolean = true; // Boolean = true, false (lógico)
 const aprovado = false;
